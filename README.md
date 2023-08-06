@@ -10,3 +10,4 @@
 
 ## Blogs
 * [Data Goblins](https://data-goblins.com/) - data-goblins.com | I just wanna help people do cool stuff in Power BI
+* [Data – Marc](https://data-marc.com/) - data-marc.com | Blogging about everything related to Data and AI based on Microsoft technology
